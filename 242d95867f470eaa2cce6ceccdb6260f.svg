@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="46px" viewBox="0 0 59 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blast-New---Blank" transform="translate(-158.000000, -152.000000)">
+            <rect fill="#fff" x="0" y="0" width="375" height="667"></rect>
+            <g id="Group-2" transform="translate(158.000000, 152.000000)">
+                <g id="if_movie_326560-(1)-copy" fill="#BBBBBB" fill-rule="nonzero">
+                    <path d="M47.2,0 L53.1,11.5 L44.25,11.5 L38.35,0 L32.45,0 L38.35,11.5 L29.5,11.5 L23.6,0 L17.7,0 L23.6,11.5 L14.75,11.5 L8.85,0 L5.9,0 C2.655,0 0,2.5875 0,5.75 L0,40.25 C0,43.4125 2.655,46 5.9,46 L53.1,46 C56.345,46 59,43.4125 59,40.25 L59,0 L47.2,0 Z" id="Shape"></path>
+                </g>
+                <g id="ic_add" transform="translate(18.000000, 16.000000)">
+                    <g id="Icon-24px">
+                        <polygon id="Shape" fill="#FFFFFF" points="19 13 13 13 13 19 11 19 11 13 5 13 5 11 11 11 11 5 13 5 13 11 19 11"></polygon>
+                        <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
